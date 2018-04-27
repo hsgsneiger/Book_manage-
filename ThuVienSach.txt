@@ -1,0 +1,470 @@
+A001
+Giet Con Chim Nhai
+Van Hoc
+1960
+419
+Harper Lee
+Dinh kien, phan biet chung toc
+ 108 000
+Moi
+----------
+A002
+Tieng Chim Hot Trong Bui Man Gai
+Van Hoc
+1940
+866
+Colleen McCullough
+Tinh Yeu, Dao Duc
+ 110 000
+Moi
+----------
+A003
+Hoang Tu Be
+Hoi Nha Van
+1943
+101
+Antoine De Saint-Exupery
+Goc nhin cuoc song cua tre em va nguoi lon
+  60 000
+Moi
+----------
+A004
+Doi Gio Hu
+Van Hoc
+1847
+492
+Emily Bronte
+Tinh yeu, Bi Kich
+  86 000
+Cu
+----------
+A005
+Khi Loi Thuoc Ve Nhung Vi Sao
+NXB Tre
+2012
+364
+John Green
+Tinh cam trong sang cua 2 benh nhan ung th
+ 105 000
+Moi
+----------
+A006
+Rung Na-Uy
+NXB Hoi Nha Van
+1987
+556
+Murakami Haruki
+Ban tinh ca lang man cua tuoi thanh xuan.
+ 115 000
+Moi
+----------
+A007
+Vu Tru Trong Vo Hat De
+NXB Tre
+2001
+253
+Stephen William Hawking
+Khoa hoc, vat ly ly thuyet, vu tru
+  75 000
+Moi
+----------
+A015
+Nha Gia Kim
+NXB Van Hoc
+1988
+228
+Paulo Coelho
+Theo duoi dam me
+  69 000
+Moi
+----------
+A016
+Dac Nhan Tam
+NXB Tong Hop
+1936
+320
+Dale Carnegie
+Ky nang song
+  76 000
+Moi
+----------
+A017
+Quang Ganh Lo Di Ma Vui Song
+NXB VanHoaThongTin
+1948
+367
+Dale Carnegie
+Cach vuot qua lo lang trong cuoc song
+ 108 000
+Moi
+----------
+A018
+Hay Di Dat Nguoi Canh Gac
+NXB Hoi Nha Van
+2015
+304
+Harper Lee
+Phan tiep theo cuon Giet Con Chim Nhai
+ 110 000
+Moi
+----------
+A018
+Hanh Trinh Ve Phuong Dong
+NXB Hong Duc
+1934
+256
+Baird T. Spalding
+Trai nghiem ve Ton giao, tam linh
+  78 000
+Moi
+----------
+A020
+Suoi Nguon
+NXB Tre
+1943
+1200
+Ayn Rand
+Chu nghia ca nhan va chu nghia tap the
+ 258 000
+Moi
+----------
+A021
+Bo Gia
+NXB Van Hoc
+1969
+534
+Mario Puzo
+Tuyet thuyet ve the gioi toi pham
+ 150 000
+Moi
+----------
+A022
+Chu Nghia Tu Ban Co Y Thuc
+NXB Tri Thuc
+2017
+375
+John Mackey, Raj Sisodia
+Dang thuc moi cua chu nghia tu ban
+ 135 000
+Moi
+----------
+B001
+Mat Biec
+NXB Tre
+1997
+298
+Nguyen Nhat Anh
+Tinh yeu, tuoi tre
+  58 000
+Moi
+----------
+B002
+Cho Toi Xin Mot Ve Di Tuoi Tho
+NXB Tre
+2015
+220
+Nguyen Nhat Anh
+Tuoi tho, tre em
+  63 000
+Moi
+----------
+B003
+Toi La Be-To
+NXB Tre
+2015
+229
+Nguyen Nhat Anh
+Thanh thieu nien, cuoc song
+  60 000
+Moi
+----------
+B004
+Toi Thay Hoa Vang Tren Co Xanh
+NXB Tre
+2010
+380
+Nguyen Nhat Anh
+Tre em, cuoc song
+  82 000
+Moi
+----------
+B005
+Cay Chuoi Non Di Giay Xanh
+NXB Tre
+2017
+304
+Nguyen Nhat Anh
+Giac mo, ky niem tuoi tre
+  60 000
+Moi
+----------
+B006
+Con Cho Nho Mang Gio Hoa Hong
+NXB Tre
+2016
+260
+Nguyen Nhat Anh
+Tinh ban, tinh yeu, long dung cam....
+  90 000
+Moi
+----------
+B007
+La Nam Trong La
+NXB Tre
+2017
+252
+Nguyen Nhat Anh
+Tinh cam, tinh yeu tuoi hoc tro
+  80 000
+Moi
+----------
+B008
+Hoa Hong Xu Khac
+NXB Tre
+2013
+270
+Nguyen Nhat Anh
+Tinh ban, tinh yeu tuoi hoc tro
+  66 000
+Moi
+----------
+B009
+Chuyen Co Tich Danh Cho Nguoi Lon
+NXB Tre
+2012
+178
+Nguyen Nhat Anh
+Cuoc song
+  42 000
+Moi
+----------
+B011
+Quan Go Di Len
+NXB Tre
+2014
+310
+Nguyen Nhat Anh
+Cau chuyen ve que huong, ky niem
+  62 000
+Moi
+----------
+B012
+Di Qua Hoa Cuc
+NXB Tre
+2014
+226
+Nguyen Nhat Anh
+Tuoi au tho, tinh yeu tuoi hoc tro
+  56 000
+Moi
+----------
+B013
+Thien Than Nho CUa Toi
+NXB Tre
+2013
+130
+Nguyen Nhat Anh
+Tinh cam, tuoi tho
+  38 000
+Moi
+----------
+B014
+Trai Hoa Vang
+NXB Tre
+2013
+278
+Nguyen Nhat Anh
+Tuoi au tho, tinh yeu tuoi hoc tro
+  66 000
+Moi
+----------
+B015
+Co Con Meo Ngoi Ben Cua So
+NXB Tre
+2012
+210
+Nguyen Nhat Anh
+Tinh Ban, tinh yeu 
+  70 000
+Moi
+----------
+A028
+Ong Gia Va Bien Ca
+1
+23
+1
+1
+1
+1
+Moi
+----------
+A028
+Tram Nam Co Don
+1
+24
+1
+1
+1
+1
+Moi
+----------
+A029
+Tin Toi Di, Toi Dang Noi Doi Day
+1
+25
+1
+1
+1
+1
+Moi
+----------
+A030
+Khong Gia Dinh
+1
+26
+1
+1
+1
+1
+Moi
+----------
+A031
+Trong Gia Dinh
+1
+27
+1
+1
+1
+1
+Moi
+----------
+A032
+Quoc Gia Khoi Nghiep
+1
+28
+1
+1
+1
+1
+Moi
+----------
+A033
+Luoc Su Thoi Gian
+1
+29
+1
+1
+1
+1
+Moi
+----------
+A034
+CaFe Cung Tony
+1
+30
+1
+1
+1
+1
+Moi
+----------
+A035
+Lau Dai Thuy Tinh
+1
+31
+1
+1
+1
+1
+Moi
+----------
+A036
+Con Hui
+1
+32
+1
+1
+1
+1
+Moi
+----------
+A037
+Phi Ly Tri
+1
+33
+1
+1
+1
+1
+Moi
+----------
+A038
+Nhung Tam Long Cao Ca
+1
+34
+1
+1
+1
+1
+Moi
+----------
+A039
+Totto-Chan Ben Cua So
+1
+35
+1
+1
+1
+1
+Moi
+----------
+A040
+Ruoi Chau
+1
+36
+1
+1
+1
+1
+Moi
+----------
+A041
+Chuyen Con Meo Day Con Hai Au Bay
+1
+37
+1
+1
+1
+1
+Moi
+----------
+A042
+Chuyen Con Oc Sen Muon Biet Vi Sao No Cham
+1
+38
+1
+1
+1
+1
+Moi
+----------
+A043
+5cm/s
+1
+39
+1
+1
+1
+1
+Moi
+----------
+A044
+Tu Duy Nhanh-Cham
+1
+40
+1
+1
+1
+1
+Moi
+----------

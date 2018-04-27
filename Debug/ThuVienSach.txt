@@ -1,0 +1,50 @@
+A001
+Giet Con Chim Nhai
+Van Hoc
+1960
+419
+Harper Lee
+Dinh kien, phan biet chung toc
+ 108 000
+Moi
+----------
+A002
+Tieng Chim Hot Trong Bui Man Gai
+Van Hoc
+1940
+866
+Colleen McCullough
+Tinh Yeu, Dao Duc
+ 110 000
+Moi
+----------
+A003
+Hoang Tu Be
+Hoi Nha Van
+1943
+101
+Antoine De Saint-Exupery
+Goc nhin cuoc song cua tre em va nguoi lon
+  60 000
+Moi
+----------
+A004
+Doi Gio Hu
+Van Hoc
+1847
+492
+Emily Bronte
+Tinh yeu, Bi Kich
+  86 000
+Cu
+----------
+A005
+Khi Loi Thuoc Ve Nhung Vi Sao
+NXB Tre
+2012
+364
+John Green
+Tinh cam trong sang cua 2 benh nhan ung th
+ 105 000
+Moi
+----------
